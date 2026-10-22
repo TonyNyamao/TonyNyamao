@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building ML systems, LLM agents and secure data pipelines that hold up in production.
+  Engineering scalable AI solutions, intelligent agents and secure data infrastructure.
 </p>
 
 ---
