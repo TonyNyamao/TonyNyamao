@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tony</h1>
 
-<h3 align="center">Senior Data Scientist & AI Engineer</h3>
+<h3 align="center">AI Engineer & Lead Data</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=C9D1D9&center=true&vCenter=true&width=520&lines=Models+in+production%2C+not+in+notebooks.;Building+agents+that+do+real+work.;Secure+by+default." alt="typing" />
