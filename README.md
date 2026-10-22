@@ -18,6 +18,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
+<img align="right" width="260" src="assets/tony.png" alt="Tony Nyamao Otenyo" />
+
 **Tony** here, a Senior Data Scientist and AI Engineer based in Nairobi, Kenya 🇰🇪, working where machine learning meets information security.
 
 I design and ship **end-to-end ML systems**: from data modelling in **dbt + BigQuery**, to gradient-boosted and deep models (**LightGBM, XGBoost, PyTorch**), to production APIs with **FastAPI, Docker and AWS SageMaker**.
@@ -27,6 +29,8 @@ Lately I'm building **RAG pipelines and LangChain multi-agent systems**, includi
 On the security side, I co-founded **[TetraSec Solutions](https://tetrasec.co.ke)**, a cybersecurity & AI company, and I'm completing an **MSc in Information Security** at USIU-Africa. My thesis compares **LLMs vs static analysis for detecting Dockerfile security misconfigurations**.
 
 Outside work: homelab Kubernetes, DevSecOps, OSINT and Active Directory attack labs. I also share what I learn as **Tony in Tech**.
+
+<br clear="right" />
 
 ---
 
