@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Tony%20Nyamao%20Otenyo&fontSize=38&fontColor=e6edf3&fontAlignY=38&desc=%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Security&descSize=16&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Tony%20Nyamao%20Otenyo&fontSize=38&fontColor=e6edf3&%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Security&descSize=16&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tony</h1>
