@@ -16,15 +16,16 @@
 
 <img align="right" width="260" src="assets/tony.png" alt="Tony Nyamao Otenyo" />
 
-**Tony** here, a Senior Data Scientist and AI Engineer based in Nairobi, Kenya 🇰🇪, working where machine learning meets information security.
+I'm an AI Engineer moving deliberately into LLM and AI system security. After years of building the models, predictive systems, and generative AI tools that organizations now depend on for critical decisions, I became just as interested in a harder question: what happens when those systems are attacked, manipulated, or quietly fail in ways their own design never accounted for. Prompt injection, data poisoning, model theft, and adversarial manipulation are no longer theoretical risks. They are the new attack surface, and most teams building AI today aren't yet equipped to defend it.
 
-I design and ship **end-to-end ML systems**: from data modelling in **dbt + BigQuery**, to gradient-boosted and deep models (**LightGBM, XGBoost, PyTorch**), to production APIs with **FastAPI, Docker and AWS SageMaker**.
+That gap is what's pulling me into security. I'm currently completing my Master of Science in Information Security at USIU Africa to build that expertise formally, with a focus on the specific challenges of securing AI and LLM-powered systems rather than traditional infrastructure alone.
 
-Lately I'm building **RAG pipelines and LangChain multi-agent systems**, including an agentic data science harness that takes a raw dataset all the way to insights.
+Over the past four years, I've worked across financial institutions, healthcare providers, NGOs, and social impact organizations, designing and deploying AI/ML solutions, generative AI and LLM-powered tools, predictive analytics models, and secure automation workflows. That experience taught me how these systems get built in practice, which is exactly the perspective I now bring to thinking about how they get broken and how to harden them before they are.
 
-On the security side, I co-founded **[TetraSec Solutions](https://tetrasec.co.ke)**, a cybersecurity & AI company, and I'm completing an **MSc in Information Security** at USIU-Africa. My thesis compares **LLMs vs static analysis for detecting Dockerfile security misconfigurations**.
+I'm also a tutor and mentor. Over the past two years, I've trained and mentored more than 100 students in Python, SQL, data visualization, machine learning, and automation, several of whom have gone on to launch careers in data analytics, data science, and AI. As I move deeper into security, I want to bring the same mentoring approach to helping the next generation of AI builders think about safety and security from day one, not as an afterthought.
 
-Outside work: homelab Kubernetes, DevSecOps, OSINT and Active Directory attack labs. I also share what I learn as **Tony in Tech**.
+Outside of data and security, I'm drawn to cars and machines, the same blend of engineering, precision, and design that feeds the curiosity and problem-solving instinct I bring to my work.
+AI and LLM systems are moving faster than the defenses built to protect them. I'm here to help close that gap, and I'm always open to conversations on AI security strategy, LLM red-teaming, or roles where these worlds intersect.
 
 <br clear="right" />
 
