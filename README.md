@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center"> About Me</h2>
+<h3 align="center"> About Me</h3>
 
 <img align="right" width="260" src="assets/tony.png" alt="Tony Nyamao Otenyo" />
 
