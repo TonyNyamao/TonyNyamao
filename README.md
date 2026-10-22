@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Tony</h1>
+<h1 align="center">Hi, I'm Tony</h1>
 
 <h3 align="center">AI Engineer & Lead Data @TetraSec Solutions</h3>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <img align="right" width="260" src="assets/tony.png" alt="Tony Nyamao Otenyo" />
 
