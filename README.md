@@ -1,7 +1,5 @@
 
 
-<h1 align="center">Hi, I'm Tony</h1>
-
 <h3 align="center">AI Engineer & Lead Data @TetraSec Solutions</h3>
 
 <p align="center">
