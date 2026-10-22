@@ -31,7 +31,7 @@ AI and LLM systems are moving faster than the defenses built to protect them. I'
 
 ---
 
-<h2 align="center">🤝 Connect</h2>
+<h3 align="center">🤝 Connect</h3>
 
 <p align="center">
   <a href="https://github.com/TonyNyamao"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" /></a>&nbsp;
@@ -42,7 +42,7 @@ AI and LLM systems are moving faster than the defenses built to protect them. I'
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center"><b>ML & AI</b></p>
 <p align="center">
@@ -61,7 +61,7 @@ AI and LLM systems are moving faster than the defenses built to protect them. I'
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TonyNyamao&theme=github-dark-blue&hide_border=true&background=161B22" alt="streak" />
@@ -73,7 +73,7 @@ AI and LLM systems are moving faster than the defenses built to protect them. I'
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
+<h3 align="center">📈 Activity Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyNyamao&bg_color=161B22&color=58A6FF&line=1F6FEB&point=E6EDF3&area=true&hide_border=true" width="100%" alt="activity graph" />
