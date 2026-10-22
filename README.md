@@ -73,12 +73,6 @@ AI and LLM systems are moving faster than the defenses built to protect them. I'
 
 ---
 
-<h3 align="center">📈 Activity Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyNyamao&bg_color=161B22&color=58A6FF&line=1F6FEB&point=E6EDF3&area=true&hide_border=true" width="100%" alt="activity graph" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
 </p>
